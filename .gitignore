@@ -1,0 +1,10 @@
+venv/
+data/train.csv
+data/test.csv
+data/train_processed.csv
+data/test_processed.csv
+data/y_train.csv
+data/test_ids.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

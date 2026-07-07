@@ -8,3 +8,4 @@ data/test_ids.csv
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.vscode/

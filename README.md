@@ -89,7 +89,6 @@ The app takes key house characteristics as input and returns real-time price pre
 
 ## 📁 Project Structure
 ''''
-'''
 house-price-predictor/
 │
 ├── app/
@@ -117,7 +116,6 @@ house-price-predictor/
 │
 ├── requirements.txt
 └── README.md
-'''
 ''''
 ---
 
